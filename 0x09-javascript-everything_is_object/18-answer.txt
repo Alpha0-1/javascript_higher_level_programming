@@ -1,0 +1,1 @@
+JavaScript handles memory automatically via garbage collection when objects are no longer referenced.

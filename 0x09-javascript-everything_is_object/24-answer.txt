@@ -1,0 +1,1 @@
+When assigning an object to another variable, both refer to the same object in memory.

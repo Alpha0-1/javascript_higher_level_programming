@@ -1,0 +1,1 @@
+No, two object literals are never the same even if they have identical content.

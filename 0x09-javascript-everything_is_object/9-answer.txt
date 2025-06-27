@@ -1,0 +1,1 @@
+Yes, if all nested values match, even if they are separate objects.

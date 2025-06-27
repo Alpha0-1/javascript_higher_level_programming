@@ -1,0 +1,1 @@
+Yes, if both variables point to the exact same array/object.

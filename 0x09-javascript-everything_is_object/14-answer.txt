@@ -1,0 +1,1 @@
+Reference: variables pointing to the same object. Copy: independent duplicate.

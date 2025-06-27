@@ -1,0 +1,1 @@
+Classes are functions in JavaScript and are assigned by reference.

@@ -1,0 +1,1 @@
+Yes, if both objects are of the same type (e.g., both are Objects or Arrays).

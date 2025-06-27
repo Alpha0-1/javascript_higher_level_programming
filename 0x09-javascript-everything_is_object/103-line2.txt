@@ -1,0 +1,1 @@
+const isObj = (x) => typeof x === 'object' && x !== null;

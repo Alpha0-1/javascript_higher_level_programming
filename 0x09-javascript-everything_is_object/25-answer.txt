@@ -1,0 +1,1 @@
+Methods are functions assigned as object properties and are also passed by reference.

@@ -1,0 +1,1 @@
+Inheritance in JavaScript works via the prototype chain, not class-based inheritance like Java.

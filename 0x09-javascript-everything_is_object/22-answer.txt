@@ -1,0 +1,1 @@
+Assignment of primitives copies the value; assignment of objects copies the reference.

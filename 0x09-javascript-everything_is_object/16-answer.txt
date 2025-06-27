@@ -1,0 +1,1 @@
+A shallow copy duplicates only the top-level object; nested items are referenced.

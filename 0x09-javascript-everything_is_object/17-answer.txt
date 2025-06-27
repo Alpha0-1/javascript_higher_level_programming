@@ -1,0 +1,1 @@
+Object identity means two variables refer to the exact same object in memory.

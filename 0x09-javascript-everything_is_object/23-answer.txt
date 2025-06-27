@@ -1,0 +1,1 @@
+Functions are assigned by reference, just like objects.

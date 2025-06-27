@@ -1,0 +1,1 @@
+Arrays are mutable; their contents can change after creation.

@@ -1,0 +1,1 @@
+Yes, if the objects have the same key-value pairs but are different references.

@@ -1,0 +1,1 @@
+Functions are objects and therefore mutable (you can assign properties to them).
