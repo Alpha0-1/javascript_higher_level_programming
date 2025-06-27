@@ -1,0 +1,14 @@
+{
+  "name": "es6-learning",
+  "version": "1.0.0",
+  "description": "A learning project for ES6 features",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet. Coming soon!\""
+  },
+  "keywords": ["ES6", "JavaScript", "learning"],
+  "author": "Your Name",
+  "license": "MIT"
+}
